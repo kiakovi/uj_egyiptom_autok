@@ -3,6 +3,8 @@
 }
 body {
     background-image: url("kepek/egyiptomihatter.jpg");
+    padding-left: 20vw;
+    padding-right: 20vw;
 }
 
 #img1 {
@@ -20,11 +22,9 @@ img {
 }
 
 #tkeret {
-    padding: 100px;
     padding-top: 50px;
     margin-top: 15px;
-    margin-left: 100px;
-    margin-right: 100px;
+    text-align: center;
     background-color:#DCBC69;
 }
 
